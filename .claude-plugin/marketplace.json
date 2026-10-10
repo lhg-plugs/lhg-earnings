@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"财报分析助手：财报丢进来→核心指标解读→多期趋势对比→风险清单（商誉/应收/存货/现金流背离），非投资建议","name":"lhg-earnings","source":"./"}]}

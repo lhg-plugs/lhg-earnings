@@ -1,0 +1,1 @@
+{"hooks":{"PostToolUse":[{"hooks":[{"command":"python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/advisory_guard.py\"","timeout":15,"type":"command"},{"command":"python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/disclaimer_guard.py\"","timeout":15,"type":"command"}],"matcher":"Write|Edit"}]}}
